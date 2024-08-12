@@ -1,6 +1,6 @@
 # Decentralized Cupcakes
 
-This project demonstrates how to create a decentralized application (dApp) using Solidity smart contracts on the Arbitrum network. 
+This project demonstrates how to create a decentralized application (dApp) using Solidity smart contracts on the [Arbitrum](https://docs.arbitrum.io/welcome/arbitrum-gentle-introduction) network. 
 ## Table of Contents
 
 - [Prerequisites](#prerequisites)
